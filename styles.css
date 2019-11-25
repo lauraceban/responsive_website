@@ -1,0 +1,34 @@
+body {
+    background-color: aquamarine;
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+        background-color: rgb(146, 1, 50);
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    body {
+        background-color: rgb(114, 26, 165);
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        background-color: rgb(210, 228, 107);
+    }
+}
+
+
+@media only screen and (max-width: 700px) {
+    body {
+        background-color: yellow;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightpink;
+    }
+}
